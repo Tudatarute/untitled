@@ -1,9 +1,11 @@
 package reviews.reviews3;
 
-import java.io.IOException;
+
 import java.io.*;
 public class Review28 {
+
     public class Main {
+
         public static void main(String[] args) throws IOException {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             System.out.print("宛先を入力>");

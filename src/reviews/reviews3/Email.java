@@ -1,9 +1,5 @@
 package reviews.reviews3;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
 public class Email {
         public void send(String to, String body) {
             System.out.println(to + "に以下のメールを送信しました。");
