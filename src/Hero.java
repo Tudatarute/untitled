@@ -31,6 +31,12 @@ public class Hero {
     public Hero(){
         this("だみ");
     }
+    /*public Hero(int hp, String name) {//同じ名前
+        this.hp = hp;
+        this.name = name;
+        System.out.println("引数2つ");
+    }
+}
     /*public  Wizard(String name) {
         this.hp = 50;
         this.name = name;
